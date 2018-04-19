@@ -1,0 +1,91 @@
+@charset "utf-8";
+/* CSS Document */
+.renk1{
+	background-color:#E70003;
+}
+.renk2{
+	background-color:#0E96ED;
+}
+.renk3{
+	background-color:#3A670C;
+}
+.renk1, .renk2, .renk3{
+	height:50px;
+}
+.menu{
+	background-color:#15B5CF;
+}
+.menu ul li a{
+	color:#FFFFFF !important;
+}
+.carousel-indicators .active {
+    background-color: #E50003;
+}
+.baslik h2{
+	font-weight:normal;
+	border-bottom:solid 1px #C9C9C9;
+}
+.baslik span{
+	color:#EC0003;
+}
+.slide-caption h3{
+	font-size:16px;
+}
+.slide-caption{
+	text-align:center;
+	padding:15px;
+}
+.yazarKasa{
+	text-align:center;
+	padding:25px 0px;
+}
+.yazarKasa h2{
+	color:#DB0104;
+}
+.yazarKasa a{
+	background-color:#F39104;
+	padding:10px 20px;
+	font-size:16px;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+.iletisimformu{
+	background:url(../images/altbg.png) no-repeat left bottom;
+	height:380px;
+	text-align:center;
+	padding-top:20px;
+}
+.altMenu ul{
+	list-style-type:none;
+	float:right;
+}
+.altMenu li{
+	float:left;
+}
+.altMenu ul li a{
+	color:#494949;
+	text-decoration:none;
+	padding:10px 0px 10px 20px;
+	display:block;
+}
+.pembe{
+	background-color:#F490CB;
+}
+.card-title{
+	color:#F30004;
+}
+.card{
+	border-color:#0A838E;
+}
+.ddmenubg{
+	background-color:#15B5CF;
+}
+.ddmenubg a:hover{
+	color:#15B5CF !important;
+}
+.dropdown:hover .ddmenubg{
+	display:block;
+}
+.ac{
+	display:none;
+}
